@@ -1,2 +1,7 @@
-# developer-portfolio
-The official repository of my Developer Portfolio
+# Developer Portfolio
+<br>
+The official repository of my Developer Portfolio.
+<br>
+Author: Upayan Naskar
+<br>
+Date Created: 11th November, 2023

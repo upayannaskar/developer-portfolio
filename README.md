@@ -1,5 +1,4 @@
 # Developer Portfolio
-<br>
 The official repository of my Developer Portfolio.
 <br>
 Author: Upayan Naskar
